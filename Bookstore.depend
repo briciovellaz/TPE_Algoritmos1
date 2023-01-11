@@ -1,0 +1,222 @@
+# depslib dependency file v1.0
+1601314648 source:d:\usuarios\alumno\descargas\algo\bookstore\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+
+1601910957 source:d:\users\usuario\desktop\facultad 2do cuatri\tpe ayda\bookstore\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+
+1601911196 source:d:\users\usuario\desktop\facultad 2do cuatri\tpe ayda\bookstore\src\lista.cpp
+	<cstddef>
+	<iostream>
+	<string>
+	"Lista.h"
+	"Libro.h"
+	"assert.h"
+
+1601911736 d:\users\usuario\desktop\facultad 2do cuatri\tpe ayda\bookstore\include\lista.h
+	<string>
+
+1601911930 d:\users\usuario\desktop\facultad 2do cuatri\tpe ayda\bookstore\include\libro.h
+	<string>
+	<iostream>
+	"lista.h"
+
+1601911934 source:d:\users\usuario\desktop\facultad 2do cuatri\tpe ayda\bookstore\src\libro.cpp
+	"Libro.h"
+	<string>
+	<iostream>
+	"lista.h"
+
+1601911196 source:c:\users\hilen\desktop\bookstore\src\lista.cpp
+	<cstddef>
+	<iostream>
+	<string>
+	"Lista.h"
+	"Libro.h"
+	"assert.h"
+
+1601911736 c:\users\hilen\desktop\bookstore\include\lista.h
+	<string>
+
+1602703692 c:\users\hilen\desktop\bookstore\include\libro.h
+	<string>
+	<iostream>
+	"lista.h"
+
+1602703743 source:c:\users\hilen\desktop\bookstore\src\libro.cpp
+	"Libro.h"
+	<string>
+	<iostream>
+	"lista.h"
+
+1602704406 source:c:\users\hilen\desktop\bookstore\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	<string>
+	<Lista.h>
+	<Libro.h>
+
+1603054965 source:d:\users\usuario\documents\hilen\facultad\facultad 2do cuatri\tpe ayda\bookstore\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	<string>
+	<Lista.h>
+	<Libro.h>
+	<algorithm>
+
+1601911736 d:\users\usuario\documents\hilen\facultad\facultad 2do cuatri\tpe ayda\bookstore\include\lista.h
+	<string>
+
+1602703692 d:\users\usuario\documents\hilen\facultad\facultad 2do cuatri\tpe ayda\bookstore\include\libro.h
+	<string>
+	<iostream>
+	"lista.h"
+
+1602703743 source:d:\users\usuario\documents\hilen\facultad\facultad 2do cuatri\tpe ayda\bookstore\src\libro.cpp
+	"Libro.h"
+	<string>
+	<iostream>
+	"lista.h"
+
+1601911196 source:d:\users\usuario\documents\hilen\facultad\facultad 2do cuatri\tpe ayda\bookstore\src\lista.cpp
+	<cstddef>
+	<iostream>
+	<string>
+	"Lista.h"
+	"Libro.h"
+	"assert.h"
+
+1605036501 source:c:\users\brici\onedrive\documentos\codeblocks\bookstore\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	<string>
+	<Lista.h>
+	<Libro.h>
+	<algorithm>
+	"assert.h"
+
+1605034219 c:\users\brici\onedrive\documentos\codeblocks\bookstore\include\lista.h
+	<string>
+
+1602703692 c:\users\brici\onedrive\documentos\codeblocks\bookstore\include\libro.h
+	<string>
+	<iostream>
+	"lista.h"
+
+1604608878 source:c:\users\brici\onedrive\documentos\codeblocks\bookstore\src\libro.cpp
+	"Libro.h"
+	<string>
+	<iostream>
+	"lista.h"
+
+1605034219 source:c:\users\brici\onedrive\documentos\codeblocks\bookstore\src\lista.cpp
+	<cstddef>
+	<iostream>
+	<string>
+	"Lista.h"
+	"Libro.h"
+	"assert.h"
+
+1604608878 source:d:\users\usuario\desktop\bookstore\src\libro.cpp
+	"Libro.h"
+	<string>
+	<iostream>
+	"lista.h"
+
+1602703692 d:\users\usuario\desktop\bookstore\include\libro.h
+	<string>
+	<iostream>
+	"lista.h"
+
+1605034219 d:\users\usuario\desktop\bookstore\include\lista.h
+	<string>
+
+1605034219 source:d:\users\usuario\desktop\bookstore\src\lista.cpp
+	<cstddef>
+	<iostream>
+	<string>
+	"Lista.h"
+	"Libro.h"
+	"assert.h"
+
+1605033986 source:d:\users\usuario\desktop\bookstore\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	<string>
+	<Lista.h>
+	<Libro.h>
+	<algorithm>
+	"assert.h"
+
+1604612949 source:c:\users\brici\onedrive\documentos\codeblocks\bookstore final\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	<string>
+	<Lista.h>
+	<Libro.h>
+	<algorithm>
+	"assert.h"
+
+1604551776 c:\users\brici\onedrive\documentos\codeblocks\bookstore final\include\lista.h
+	<string>
+
+1602703692 c:\users\brici\onedrive\documentos\codeblocks\bookstore final\include\libro.h
+	<string>
+	<iostream>
+	"lista.h"
+
+1604608878 source:c:\users\brici\onedrive\documentos\codeblocks\bookstore final\src\libro.cpp
+	"Libro.h"
+	<string>
+	<iostream>
+	"lista.h"
+
+1604551776 source:c:\users\brici\onedrive\documentos\codeblocks\bookstore final\src\lista.cpp
+	<cstddef>
+	<iostream>
+	<string>
+	"Lista.h"
+	"Libro.h"
+	"assert.h"
+
+1605036501 source:c:\users\brici\documents\codeblocks\bookstore\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	<string>
+	<Lista.h>
+	<Libro.h>
+	<algorithm>
+	"assert.h"
+
+1605034219 c:\users\brici\documents\codeblocks\bookstore\include\lista.h
+	<string>
+
+1602703692 c:\users\brici\documents\codeblocks\bookstore\include\libro.h
+	<string>
+	<iostream>
+	"lista.h"
+
+1604608878 source:c:\users\brici\documents\codeblocks\bookstore\src\libro.cpp
+	"Libro.h"
+	<string>
+	<iostream>
+	"lista.h"
+
+1605034219 source:c:\users\brici\documents\codeblocks\bookstore\src\lista.cpp
+	<cstddef>
+	<iostream>
+	<string>
+	"Lista.h"
+	"Libro.h"
+	"assert.h"
+
